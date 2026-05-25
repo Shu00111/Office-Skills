@@ -1,0 +1,4 @@
+interface:
+  display_name: "报销整理"
+  short_description: "从票据付款截图和物品照片中整理报销表格并逐项追问用途。"
+  default_prompt: "整理当前目录的报销材料，输出物品名称、采购时间、价格、用途表格；缺失用途逐条询问。"
