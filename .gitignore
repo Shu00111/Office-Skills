@@ -1,11 +1,14 @@
 .DS_Store
 __pycache__/
 *.pyc
+*.log
 
-# Keep private reimbursement evidence out of this public skill repo.
+# Keep private reimbursement evidence and generated outputs out of this public skill repo.
 *.jpg
 *.jpeg
 *.png
 *.heic
 *.pdf
+*.tex
 *-报销整理表.md
+*_周报.md
