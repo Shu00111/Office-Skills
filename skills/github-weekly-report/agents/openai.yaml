@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Weekly Report"
+  short_description: "Generate a structured Markdown weekly report from GitHub activity."
+  default_prompt: "Generate this week's GitHub weekly report."
